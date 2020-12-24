@@ -22,7 +22,11 @@
   <a href="https://stackoverflow.com/users/6657098/cullzie"><img src="https://stackoverflow.com/users/flair/6657098.png" width="208" height="58" alt="profile for cullzie at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for cullzie at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
 </p>
-
+<p align="left"> 
+  <a href="https://twitter.com/cullzio" target="blank">
+    <img src="https://img.shields.io/twitter/follow/cullzio?logo=twitter&style=for-the-badge" alt="cullzio" />
+  </a>
+</p>
 
 <!--
 **cullzie/cullzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
