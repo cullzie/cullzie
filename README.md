@@ -2,9 +2,9 @@
 
 <p align="left">
   
-  [![cullzie's github stats](https://github-readme-stats.vercel.app/api?username=cullzie&show_icons=true&theme=dracula)](https://github.com/cullzie/github-readme-stats)
+  [![cullzie's github stats](https://github-readme-stats.vercel.app/api?username=cullzie&show_icons=true&theme=dracula)]
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cullzie&layout=compact&theme=dracula)](https://github.com/cullzie/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cullzie&layout=compact&theme=dracula)]
   
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cullzie"/>   
 </p>
